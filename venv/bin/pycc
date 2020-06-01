@@ -1,0 +1,3 @@
+#!/home/abhishek/SoftDev/URECA/waveEqn/venv/bin/python
+from numba.pycc import main
+main()
